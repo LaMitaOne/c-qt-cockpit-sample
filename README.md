@@ -1,6 +1,6 @@
 # c-qt-cockpit-sample
    
-C++ Qt Automotive Cockpit Simulation sample
+C++ Qt Automotive Analog Cockpit Simulation sample
     
     
 Status: 🟢 Learning Project discontinued but maybe someone can use it somehow   
