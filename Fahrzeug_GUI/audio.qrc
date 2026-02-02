@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Car-Engine-Idle.mp3</file>
+        <file>Car-Engine-Speeddown.mp3</file>
+        <file>Car-Engine-Speedup.mp3</file>
+        <file>Car-Engine-Starting.mp3</file>
+        <file>Car-Engine-Stopping.mp3</file>
+        <file>Hupe.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+     Bedienungsanleitung:
+
+     Leertaste    = Motor an/aus
+     Entf             = Fehleranzeige
+     Pfeil hoch   = Gas geben
+     Pfeil runter = Bremsen
+     Pfeil links    = Gang runter
+     Pfeil rechts = Gang rauf
+     Taste L        = Licht an/aus
+     Taste H        = Hupe"

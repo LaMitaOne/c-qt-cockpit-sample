@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backcamera.png</file>
+        <file>background.png</file>
+        <file>errengine.png</file>
+        <file>errheat.png</file>
+        <file>picfuel.png</file>
+        <file>picneedle.png</file>
+        <file>picrounds.png</file>
+        <file>pictacho.png</file>
+        <file>Gang_0.png</file>
+        <file>Gang_1.png</file>
+        <file>Gang_2.png</file>
+        <file>Gang_3.png</file>
+        <file>Gang_4.png</file>
+        <file>Gang_5.png</file>
+        <file>Gang_6.png</file>
+        <file>Gang_R.png</file>
+        <file>Fuel.png</file>
+        <file>Fuel-Station-256.png</file>
+        <file>info.png</file>
+        <file>panel.png</file>
+        <file>temp.png</file>
+        <file>lights.png</file>
+        <file>speaker.png</file>
+        <file>speaker_off.png</file>
+    </qresource>
+</RCC>

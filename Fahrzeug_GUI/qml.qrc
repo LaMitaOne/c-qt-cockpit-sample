@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Sound.qml</file>
+        <file>Drehzahl.qml</file>
+        <file>Getriebe.qml</file>
+        <file>Hintergrund.qml</file>
+        <file>Infoleiste.qml</file>
+        <file>Tankanzeige.qml</file>
+        <file>Temperatur.qml</file>
+        <file>Tempo.qml</file>
+    </qresource>
+</RCC>

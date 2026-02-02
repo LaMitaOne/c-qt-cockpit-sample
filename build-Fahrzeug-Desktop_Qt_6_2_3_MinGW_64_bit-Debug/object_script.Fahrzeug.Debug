@@ -1,0 +1,10 @@
+debug/fahrverhalten.o
+debug/fahrzeuginfo.o
+debug/steuereinheit.o
+debug/main.o
+debug/qrc_qml.o
+debug/qrc_audio.o
+debug/qrc_picture.o
+debug/moc_fahrverhalten.o
+debug/moc_fahrzeuginfo.o
+debug/moc_steuereinheit.o
