@@ -15,5 +15,7 @@ Features:
      QML Integration for UI.   
        
     
-Tech Stack: C++, Qt Framework (QML, QQmlApplicationEngine).     
+Tech Stack: C++, Qt Framework (QML, QQmlApplicationEngine).   
+    
+<img width="1347" height="716" alt="background" src="https://github.com/user-attachments/assets/13d0d346-cd4a-47ea-b4af-0ad6152d3cb3" />
 
