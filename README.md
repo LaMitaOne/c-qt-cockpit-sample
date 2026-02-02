@@ -2,7 +2,7 @@
 C++ Qt Automotive Cockpit Simulation sample
 
 
- ++ Qt Automotive Cockpit Simulation      
+C++ Qt Automotive Cockpit Simulation      
     
 Status: 🟢 Learning Project discontinued but maybe someone can use it somehow   
 
