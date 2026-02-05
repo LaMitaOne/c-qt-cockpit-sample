@@ -5,7 +5,8 @@ C++ Qt Automotive Analog Cockpit Simulation sample
     
 Status: 🟢 Learning Project discontinued but maybe someone can use it somehow   
 
-This project was developed during the 4th week of a C++ and Qt training course 2022. It simulates basic vehicle physics, gear shifting logic, and dashboard interactions using QML.   
+This project was developed during the 4th week of a C++ and Qt training course 2022. Yes without Ai!   
+It simulates basic vehicle physics, gear shifting logic, and dashboard interactions using QML.   
     
 Features:     
     
